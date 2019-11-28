@@ -5,12 +5,12 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
   <li>Xamarin Forms</li>
   <li>MVVM (ViewModels)</li>
   <li>Layout XAML (Views)</li>
-  <li>API Service</li>
+  <li>Styles compartilhados</li>
+  <li>API Services</li>
   <li>Componentes personalizados</li>
   <li>Custom Controls</li>
   <li>Custom Views</li>
   <li>Custom Renderers</li>
-  <li>Styles compartilhados</li>
 </ul>
 <br><br><br>
 
