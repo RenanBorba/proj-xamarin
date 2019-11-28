@@ -1,0 +1,9 @@
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.deps.json
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.dll
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\bin\Debug\netstandard2.0\Evntr.Models.pdb
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.csprojAssemblyReference.cache
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.csproj.CoreCompileInputs.cache
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.AssemblyInfoInputs.cache
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.AssemblyInfo.cs
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.dll
+C:\Users\casa\source\repos\Maratona-Xamarin\EvntrAppModulo4\Evntr.Models\obj\Debug\netstandard2.0\Evntr.Models.pdb
