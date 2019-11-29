@@ -25,7 +25,7 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 ![2](https://user-images.githubusercontent.com/48495838/69835450-8d791e80-1220-11ea-9c20-c321f71ae448.JPG)
 <br><br>
 
-![3](https://user-images.githubusercontent.com/48495838/69835451-8d791e80-1220-11ea-8117-51cbc4ae5f46.jpg)
+![3](https://user-images.githubusercontent.com/48495838/69873135-43328480-1296-11ea-8585-61966dd013e9.jpg)
 <br><br>
 
 ![4](https://user-images.githubusercontent.com/48495838/69835452-8e11b500-1220-11ea-8f89-16f5c12b696a.JPG)
