@@ -1,4 +1,4 @@
-## proj-xamarin 
+## proj-xamarin
 # Projeto Portfólio - Aplicação Conf IT Mobile Xamarin
 Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de divulgação de palestras, conferências, simpósios e feiras, permitindo assim a melhor divulgação dos palestrantes, agenda com os temas das palestras e envio de feedback pelo usuário.
 <ul> 
