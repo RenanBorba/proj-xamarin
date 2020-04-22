@@ -6,6 +6,14 @@
 
 <br>
 
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin)
+
+</div>
+
+<br>
+
 Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de divulgação de palestras, conferências, simpósios e feiras, permitindo assim a melhor divulgação dos palestrantes, agenda com os temas das palestras e envio de feedback pelo usuário.
 
 <br>
