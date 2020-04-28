@@ -11,13 +11,13 @@
 [![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin)
 
 </div>
- 
+
 <br>
 
 Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de divulgação de palestras, conferências, simpósios e feiras, permitindo assim a melhor divulgação dos palestrantes, agenda com os temas das palestras e envio de feedback pelo usuário.
 
 <br>
- 
+
 ## :rocket: Tecnologias 
 <ul> 
   <li>Xamarin Forms</li>
@@ -30,6 +30,7 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
   <li>Custom Views</li>
   <li>Custom Renderers</li>
 </ul>
+
 <br><br><br>
 
 ![0](https://user-images.githubusercontent.com/48495838/69835438-776b5e00-1220-11ea-9025-7ecd87f14bc0.JPG)
@@ -45,6 +46,7 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 <br><br>
 
 ![4](https://user-images.githubusercontent.com/48495838/69835452-8e11b500-1220-11ea-8f89-16f5c12b696a.JPG)
+
 <br><br>
 
 <br>
