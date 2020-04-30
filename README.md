@@ -18,8 +18,8 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 
 <br>
 
-## :rocket: Tecnologias 
-<ul> 
+## :rocket: Tecnologias
+<ul>
   <li>Xamarin Forms</li>
   <li>MVVM (ViewModels)</li>
   <li>Layout XAML (Views)</li>
