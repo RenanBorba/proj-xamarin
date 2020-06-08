@@ -31,6 +31,24 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
   <li>Custom Renderers</li>
 </ul>
 
+<br><br>
+
+## :punch: Como contribuir 
+<ul>
+  <li>Dê um fork nesse repositório</li>
+  <li>Crie a sua branch com a feature</li>
+    <ul>
+      <li>git checkout -b my-feature</li>
+    </ul>
+  <li>Commit a sua atualização</li>
+    <ul>
+      <li>git commit -m 'feat: My feature'</li>
+    </ul>
+  <li>Push a sua branch</li>
+    <ul>
+      <li>git push origin my-feature</li>
+    </ul>
+</ul>
 <br><br><br>
 
 ![0](https://user-images.githubusercontent.com/48495838/69835438-776b5e00-1220-11ea-9025-7ecd87f14bc0.JPG)
