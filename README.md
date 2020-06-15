@@ -16,7 +16,15 @@
 
 Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de divulgação de palestras, conferências, simpósios e feiras, permitindo assim a melhor divulgação dos palestrantes, agenda com os temas das palestras e envio de feedback pelo usuário.
 
-<br>
+<br><br>
+
+<div align="center">
+
+![xamarin](https://user-images.githubusercontent.com/48495838/84691703-f608be00-af1a-11ea-81b8-4ae053dd3d81.png)
+
+</div>
+
+<br><br>
 
 ## :rocket: Tecnologias
 <ul>
