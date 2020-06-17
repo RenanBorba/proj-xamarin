@@ -77,6 +77,7 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 
 ![4](https://user-images.githubusercontent.com/48495838/69835452-8e11b500-1220-11ea-8f89-16f5c12b696a.JPG)
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
