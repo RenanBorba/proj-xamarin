@@ -59,6 +59,10 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 </ul>
 <br><br><br>
 
+## :mega: Segue abaixo as principais interfaces:
+
+<br><br><br>
+
 ![0](https://user-images.githubusercontent.com/48495838/69835438-776b5e00-1220-11ea-9025-7ecd87f14bc0.JPG)
 
 <br><br>
@@ -77,7 +81,6 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 
 ![4](https://user-images.githubusercontent.com/48495838/69835452-8e11b500-1220-11ea-8f89-16f5c12b696a.JPG)
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
