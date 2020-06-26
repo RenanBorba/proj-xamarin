@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projeto Portfólio - Aplicação Conf IT Mobile Xamarin
+# Projeto - Aplicação Conf IT Mobile Xamarin
 
 </div>
 
