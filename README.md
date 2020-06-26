@@ -8,7 +8,8 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin) [![Build Status](https://img.shields.io/github/forks/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin)
+
 
 </div>
 
