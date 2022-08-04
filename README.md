@@ -60,7 +60,7 @@ Aplicação Mobile desenvolvida em .NET Xamarin MVVM, voltada para portfólio de
 </ul>
 <br><br><br>
 
-## :mega: Segue abaixo as principais interfaces:
+## :mega: ⬇ Abaixo as principais interfaces:
 
 <br><br><br>
 
