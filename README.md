@@ -10,6 +10,9 @@
 
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin) [![Build Status](https://img.shields.io/github/forks/RenanBorba/proj-xamarin.svg)](https://github.com/RenanBorba/proj-xamarin)
 
+<br>
+
+![logo](https://github.com/RenanBorba/web-secondary/assets/48495838/4e2578ca-4f28-447e-bf87-470a94aadf4b)
 
 </div>
 
